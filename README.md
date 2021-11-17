@@ -2,7 +2,7 @@
 Tarefa do encontro 1611
 
 git init
-git add .
+git add 
 git status
 git commit -m
 git remote add origin
